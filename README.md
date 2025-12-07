@@ -1,16 +1,12 @@
-# 📘 **Sistem Deteksi Getaran Bed Pasien Epilepsi Berbasis ROS2, ESP8266, dan Buzzer**
+# 📘 **Sistem Deteksi Getaran Bed Pasien Epilepsi Berbasis ROS2 menggunakan ESP8266, SW-402, dan _Buzzer_**
 
 ## 🧭 **Deskripsi Proyek**
 
-Proyek ini membangun sistem deteksi getaran menggunakan sensor **SW-402**, modul **ESP8266**, dan **ROS 2** dengan arsitektur **Publisher–Subscriber**.
-ESP8266 membaca data sensor dan mengirimkan informasi ke komputer melalui komunikasi serial. Node ROS2 kemudian memproses data dan mengaktifkan buzzer apabila terdeteksi getaran.
+Proyek ini membangun sistem deteksi getaran menggunakan modul **ESP8266**, sensor **SW-402**, dan **_buzzer_** berbasis **ROS 2** dengan arsitektur **Publisher–Subscriber**. ESP8266 membaca data sensor dan mengirimkan informasi ke komputer melalui komunikasi serial. Node ROS2 kemudian memproses data dan mengaktifkan buzzer apabila terdeteksi getaran.
 
-Sistem ini berguna untuk:
+Sistem ini berguna untuk mendeteksi getaran pada bed/kasur pasien pengidap epilepsi. Epilepsi adalah gangguan pada sistem saraf pusat yang menyebabkan aktivitas listrik otak menjadi tidak normal sehingga memicu kejang berulang. Kejang pada epilepsi dapat berupa gerakan tubuh tak terkontrol, kaku, atau tersentak-sentak, tetapi bisa juga muncul sebagai tatapan kosong, hilang kesadaran sesaat, atau sensasi aneh sebelum serangan. Pada keadaan kejang, pasien memerlukan penanganan cepat karena gerakan tak terkontrol dapat menyebabkan cedera, gangguan pernapasan, atau memburuknya kondisi medis. 
 
-* Deteksi getaran sederhana
-* Monitoring keamanan ruangan
-* Sistem anti-maling
-* Peringatan dini kerusakan mesin
+Oleh karena itu, sistem pendeteksi getaran pada bed atau kasur pasien sangat dibutuhkan untuk mengidentifikasi aktivitas kejang sedini mungkin. Sensor getaran dapat mendeteksi pola gerakan tidak normal pada tubuh pasien dan memicu alarm bagi tenaga medis atau keluarga sehingga respons pertolongan dapat diberikan segera. Dengan deteksi dini ini, risiko komplikasi dapat ditekan dan keselamatan pasien lebih terjamin.
 
 ---
 ## 🤖 Anggota Kelompok
