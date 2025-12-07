@@ -1,4 +1,4 @@
-# 📘 **README — Sistem Alarm Getaran Berbasis ROS2 & ESP8266**
+# 📘 **Sistem Deteksi Getaran Bed Pasien Epilepsi Berbasis ROS2, ESP8266, dan Buzzer**
 
 ## 🧭 **Deskripsi Proyek**
 
