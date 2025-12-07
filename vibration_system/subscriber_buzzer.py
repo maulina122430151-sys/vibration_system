@@ -21,12 +21,12 @@ class BuzzerSubscriber(Node):
 
     def vibration_callback(self, msg):
         if msg.data:
-            self.get_logger().info("[EVENT] Vibration detected → Turn ON buzzer")
+            self.get_logger().info("[EVENT] Vibration detected (KEJANG) → Turn ON buzzer")
             cmd = Bool()
             cmd.data = True
             self.pub_cmd.publish(cmd)
         else:
-            self.get_logger().info("[EVENT] No vibration → Turn OFF buzzer")
+            self.get_logger().info("[EVENT] No vibration (NORMAL) → Turn OFF buzzer")
             cmd = Bool()
             cmd.data = False
             self.pub_cmd.publish(cmd)
