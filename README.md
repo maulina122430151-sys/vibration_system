@@ -13,8 +13,8 @@ Oleh karena itu, sistem pendeteksi getaran pada bed atau kasur pasien sangat dib
 | Nama                       | NIM       |
 |----------------------------|-----------|
 | Maulina Adelia Putri       | 122430151 |
-| Lasma Keren J. Marbun      | 122430125 |
-| Elisabeth Tampubolon       | 122430137 |
+| Lasma Keren J. Marbun      | 122430154 |
+| Elisabeth Tampubolon       | 122430104 |
 
 ---
 
