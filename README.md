@@ -13,6 +13,15 @@ Sistem ini berguna untuk:
 * Peringatan dini kerusakan mesin
 
 ---
+## 🤖 Anggota Kelompok
+| Nama                       | NIM       |
+|----------------------------|-----------|
+| Maulina Adelia Putri       | 122430151 |
+| Lasma Keren J. Marbun      | 122430125 |
+| Elisabeth Tampubolon       | 122430137 |
+
+---
+
 
 ## 📡 **Arsitektur Sistem**
 
