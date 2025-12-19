@@ -1,4 +1,4 @@
-* **Link Website  :** https://maulina122430151-sys.github.io/vibration_system/
+* **Link Website  :** https://maulina122430151-sys.github.io/vibration_system/ (Desktop Mode Only)
 * **Link Video    :** https://drive.google.com/file/d/1C99zHnlh4f7vWqG3dCXEZATpTMbc_hyH/view?usp=drivesdk
 
 # 📘 **Sistem Deteksi Getaran Bed Pasien Epilepsi Berbasis ROS2 menggunakan ESP8266, SW-402, dan _Buzzer_**
