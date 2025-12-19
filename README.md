@@ -288,6 +288,12 @@ ros2 run vibration_system subscriber_buzzer
 
 ---
 
+# 🎥 **Video Proses dan Hasil**
+
+[![Demo Sistem](Diagram_Blok.jpeg)]([https://www.youtube.com/watch?v=abc123xyz](https://drive.google.com/file/d/1C99zHnlh4f7vWqG3dCXEZATpTMbc_hyH/view?usp=drivesdk))
+
+---
+
 # ⚠️ Kendala Umum & Solusi
 
 | Masalah                              | Penyebab                       | Solusi                                |
