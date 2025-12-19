@@ -43,7 +43,7 @@ Oleh karena itu, sistem pendeteksi getaran pada bed atau kasur pasien sangat dib
 
 ## 📡 **Arsitektur Sistem**
 
-![Diagram Blok Sistem](vibration_system/Diagram_Blok.jpeg)
+![Diagram Blok Sistem](Diagram_Blok.jpeg)
 
 ---
 
