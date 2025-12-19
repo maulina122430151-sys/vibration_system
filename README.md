@@ -41,6 +41,12 @@ Oleh karena itu, sistem pendeteksi getaran pada bed atau kasur pasien sangat dib
 
 ---
 
+## 📡 **Arsitektur Sistem**
+
+![Diagram Blok Sistem](vibration_system/Diagram_Blok.jpeg)
+
+---
+
 # 🔧 **Cara Kerja**
 
 1. **ESP8266 membaca sensor SW-402**
